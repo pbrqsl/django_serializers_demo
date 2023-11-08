@@ -1,0 +1,753 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 581,
+    "items": [
+        {
+            "kind": "books#volume",
+            "id": "rToaogEACAAJ",
+            "etag": "RkmWx1XxX94",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/rToaogEACAAJ",
+            "volumeInfo": {
+                "title": "Hobbit czyli tam i z powrotem",
+                "authors": [
+                    "J. R. R. Tolkien"
+                ],
+                "publishedDate": "2015-01",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "8324403876"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9788324403875"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 320,
+                "printType": "BOOK",
+                "averageRating": 5,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "language": "pl",
+                "previewLink": "http://books.google.pl/books?id=rToaogEACAAJ&dq=hobbit&hl=&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.pl/books?id=rToaogEACAAJ&dq=hobbit&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Hobbit_czyli_tam_i_z_powrotem.html?hl=&id=rToaogEACAAJ"
+            },
+            "saleInfo": {
+                "country": "PL",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "PL",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=rToaogEACAAJ&hl=&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "&quot;Światowej sławy pisarz angielski John Ronald Reuel Tolkien (1892-1973) był profesorem filologii angielskiej na uniwersytecie w Leeds oraz profesorem literuatury średniowiecznej w Oksfordzie, znawcą literatury i języka ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "j1yhzwEACAAJ",
+            "etag": "ke0SoVZbd+w",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/j1yhzwEACAAJ",
+            "volumeInfo": {
+                "title": "Hobbit albo Tam i z powrotem",
+                "authors": [
+                    "J. R. R. Tolkien"
+                ],
+                "publishedDate": "2022",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "8382027679"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9788382027679"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 0,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "language": "pl",
+                "previewLink": "http://books.google.pl/books?id=j1yhzwEACAAJ&dq=hobbit&hl=&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.pl/books?id=j1yhzwEACAAJ&dq=hobbit&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Hobbit_albo_Tam_i_z_powrotem.html?hl=&id=j1yhzwEACAAJ"
+            },
+            "saleInfo": {
+                "country": "PL",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "PL",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=j1yhzwEACAAJ&hl=&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "AcWSMQEACAAJ",
+            "etag": "hZA6en/9RPo",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/AcWSMQEACAAJ",
+            "volumeInfo": {
+                "title": "Hobbit czyli tam i z powrotem",
+                "authors": [
+                    "J. R. R. Tolkien"
+                ],
+                "publishedDate": "2012-01",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "8324402055"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9788324402052"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 280,
+                "printType": "BOOK",
+                "categories": [
+                    "Baggins, Bilbo (Fictitious character)"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "language": "pl",
+                "previewLink": "http://books.google.pl/books?id=AcWSMQEACAAJ&dq=hobbit&hl=&cd=3&source=gbs_api",
+                "infoLink": "http://books.google.pl/books?id=AcWSMQEACAAJ&dq=hobbit&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Hobbit_czyli_tam_i_z_powrotem.html?hl=&id=AcWSMQEACAAJ"
+            },
+            "saleInfo": {
+                "country": "PL",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "PL",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=AcWSMQEACAAJ&hl=&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "QSUREAAAQBAJ",
+            "etag": "xQ8BL+1CBOM",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/QSUREAAAQBAJ",
+            "volumeInfo": {
+                "title": "LEGO The Hobbit",
+                "authors": [
+                    "Jacek Hałas"
+                ],
+                "publisher": "Litres",
+                "publishedDate": "2020-08-04",
+                "description": "Poradnik LEGO The Hobbit – Opis przejścia, znajdźki, sekrety stanowi kompletny przewodnik po zbudowanej z klocków wersji Tolkienowskiego Śródziemia. Powinien on okazać się pomocny w ukończeniu głównych i opcjonalnych etapów gry, a także w odnalezieniu wszystkich skrzętnie poukrywanych znajdziek i skarbów. Poradnik podzielony został na kilka różnych rozdziałów. Pierwszy rozdział jest jednym z najobszerniejszych, zawierając bardzo szczegółowy i bogato ilustrowany opis przejścia wszystkich szesnastu etapów trybu fabularnego gry. W następnym rozdziale znalazły się informacje na temat sekretów odnajdywanych w głównych etapach. Trzeci rozdział koncentruje się na opisach przejścia zadań pobocznych, których w grze LEGO The Hobbit jest istne zastrzęsienie. Kilka kolejnych rozdziałów niniejszego poradnika dotyczy w całości atrakcji czekających na graczy w Śródziemiu, po którym w przerwach pomiędzy głównymi etapami można się swobodnie przemieszczać. Mowa tu przede wszystkim o schematach, mithrilowych klockach LEGO oraz nowych grywalnych postaciach, które można rekrutować w trakcie rozgrywki. Warto odnotować, że do większości rozdziałów powiązanych ze Śródziemiem dołączono mapy świata w wysokiej jakości, które powinny okazać się pomocne w poprawnej nawigacji. W końcowej części poradnika znajdują się trzy mniejsze rozdziały. Związane są one z zaliczeniem bonusowego poziomu, wymaganiami do ukończenia gry w stu procentach oraz odblokowaniem wszystkich osiągnięć. LEGO The Hobbit to kolejna produkcja studia Traveller's Tales, w której przemieszczamy się po środowisku zbudowanym w całości z tytułowych klocków. Produkcja ta nawiązuje do powieści J.R.R. Tolkiena oraz do powstałej na jej bazie filmowej trylogii Petera Jacksona. Poradnik LEGO The Hobbit – Opis przejścia, znajdźki i sekrety zawiera: Szczegółowy opis przejścia wszystkich etapów trybu fabularnego gry; Informacje na temat lokalizacji sekretów odnajdywanych w głównych etapach gry; Szczegółowy opis przejścia ponad stu zadań pobocznych; Zestawienie wszystkich atrakcji dostępnych w trakcie swobodnej eksploracji Śródziemia; Informacje na temat lokalizacji schematów i mithrilowych klocków LEGO na mapie świata; Zestawienie wszystkich grywalnych postaci; Opis odblokowania i przejścia tajnego poziomu; Informacje na temat wymagań do zaliczenia gry w 100 procentach; Informacje na temat odblokowywania osiągnięć. Poradnik do gry LEGO The Hobbit stanowi dokładny, bogato ilustrowany opis przejścia, dzięki któremu odnalezienie wszystkich sekretów i ukończenie gry w 100% nie będzie stanowiło najmniejszego problemu. Ponadto – opisane zostały wszystkie osiągnięcia gry. LEGO The Hobbit – opis przejścia, znajdźki i sekrety zawiera poszukiwane przez graczy tematy i lokacje jak m.in. Etap 1 (Greatest Kingdom in Middle-Earth) (Główne etapy – Sekrety) Czerwone pytajniki (Śródziemie – Zadania poboczne) Etap 1 (Greatest Kingdom in Middle-Earth) – Wnętrze Samotnej Góry (Opis przejścia gry) Białe pytajniki – opisy przejścia zadań (1-20) (Śródziemie – Zadania poboczne) Etap 16 (Inside Information) – Pokonanie Smauga (Opis przejścia gry) Główne etapy – Sekrety Mapa (Śródziemie – Mithrilowe klocki LEGO) Mapa (Śródziemie – Schematy) Odnajdywanie schematów (1-8) (Śródziemie – Schematy) Etap 14 (The Necromancer) (Główne etapy – Sekrety)",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9785042736636"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "5042736638"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 707,
+                "printType": "BOOK",
+                "categories": [
+                    "Computers"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.62.0.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=QSUREAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=QSUREAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "pl",
+                "previewLink": "http://books.google.pl/books?id=QSUREAAAQBAJ&pg=PA680&dq=hobbit&hl=&cd=4&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=QSUREAAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QSUREAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "PL",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 10.28,
+                    "currencyCode": "PLN"
+                },
+                "retailPrice": {
+                    "amount": 8.53,
+                    "currencyCode": "PLN"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=QSUREAAAQBAJ&rdid=book-QSUREAAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 10280000,
+                            "currencyCode": "PLN"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 8530000,
+                            "currencyCode": "PLN"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "PL",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.pl/books/download/LEGO_The_Hobbit-sample-pdf.acsm?id=QSUREAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=QSUREAAAQBAJ&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "... <b>Hobbit</b> Ważne lokacje Siedziba kowala -. LEGO The <b>Hobbit</b> A Ważne lokacje A Śródziemie A - Ważne lokacje A 777 774 ARNOR High Fells <b>Hobbiton</b> Bree Elfi port A A <b>HOBBITON</b> ERIADOR LEGO The <b>Hobbit</b> Ważne lokacje Wichrowy Czub Siedziba kowala&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "jzdwuAAACAAJ",
+            "etag": "hFNALhtRCf8",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/jzdwuAAACAAJ",
+            "volumeInfo": {
+                "title": "Hobbit albo tam i z powrotem",
+                "authors": [
+                    "John Ronald Reuel Tolkien",
+                    "Alan Lee",
+                    "Paulina Braiter"
+                ],
+                "publishedDate": "2012",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "8324141987"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9788324141982"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 284,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "language": "pl",
+                "previewLink": "http://books.google.pl/books?id=jzdwuAAACAAJ&dq=hobbit&hl=&cd=5&source=gbs_api",
+                "infoLink": "http://books.google.pl/books?id=jzdwuAAACAAJ&dq=hobbit&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Hobbit_albo_tam_i_z_powrotem.html?hl=&id=jzdwuAAACAAJ"
+            },
+            "saleInfo": {
+                "country": "PL",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "PL",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=jzdwuAAACAAJ&hl=&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "rIqOaeTx074C",
+            "etag": "yyUmb2nI9M4",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/rIqOaeTx074C",
+            "volumeInfo": {
+                "title": "The Hobbit (Enhanced Edition)",
+                "authors": [
+                    "J. R. R. Tolkien"
+                ],
+                "publisher": "HarperCollins UK",
+                "publishedDate": "2011-11-18",
+                "description": "Exclusive to this Enhanced version of the eBook are recently discovered audio recordings by J.R.R. Tolkien, and new high-resolution colour images of all of Tolkien’s illustrations for the book, many of which are also included in their earlier black-and-white versions and can be revealed by a simple swipe of the screen.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780007425389"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0007425384"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 302,
+                "printType": "BOOK",
+                "categories": [
+                    "Young Adult Fiction"
+                ],
+                "averageRating": 5,
+                "ratingsCount": 7,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.3.4.0.preview.2",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=rIqOaeTx074C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=rIqOaeTx074C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.pl/books?id=rIqOaeTx074C&printsec=frontcover&dq=hobbit&hl=&cd=6&source=gbs_api",
+                "infoLink": "http://books.google.pl/books?id=rIqOaeTx074C&dq=hobbit&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/The_Hobbit_Enhanced_Edition.html?hl=&id=rIqOaeTx074C"
+            },
+            "saleInfo": {
+                "country": "PL",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "PL",
+                "viewability": "PARTIAL",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.pl/books/download/The_Hobbit_Enhanced_Edition-sample-epub.acsm?id=rIqOaeTx074C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=rIqOaeTx074C&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Exclusive to this Enhanced version of the eBook are recently discovered audio recordings by J.R.R. Tolkien, and new high-resolution colour images of all of Tolkien’s illustrations for the book, many of which are also included in their ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "IhXizwEACAAJ",
+            "etag": "BoKvWMrAHj0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/IhXizwEACAAJ",
+            "volumeInfo": {
+                "title": "Hobbit albo Tam i z powrotem",
+                "subtitle": "z objaśnieniami",
+                "authors": [
+                    "J. R. R. Tolkien"
+                ],
+                "publishedDate": "2022",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "8380745329"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9788380745322"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 0,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "language": "pl",
+                "previewLink": "http://books.google.pl/books?id=IhXizwEACAAJ&dq=hobbit&hl=&cd=7&source=gbs_api",
+                "infoLink": "http://books.google.pl/books?id=IhXizwEACAAJ&dq=hobbit&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Hobbit_albo_Tam_i_z_powrotem.html?hl=&id=IhXizwEACAAJ"
+            },
+            "saleInfo": {
+                "country": "PL",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "PL",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=IhXizwEACAAJ&hl=&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "mBSsCgAAQBAJ",
+            "etag": "NW9Jis5gZAs",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/mBSsCgAAQBAJ",
+            "volumeInfo": {
+                "title": "Bilbo's Journey",
+                "subtitle": "Discovering the Hidden Meaning of the Hobbit",
+                "authors": [
+                    "Joseph Pearce"
+                ],
+                "publisher": "TAN Books",
+                "publishedDate": "2012-10-31",
+                "description": "Discover the Christian meaning in The Hobbit. In Bilbo's Journey go beyond the dragons, dwarves, and elves, and discover the surprisingly deep meaning of J.R.R. Tolkien's classic novel The Hobbit. Bilbo's quest to find and slay the dragon Smaug is a riveting tale of daring and heroism, but as renowned Tolkien scholar Joseph Pearce shows, it is not simply Bilbo's journey, it is our journey too. It is the Christian journey of self-sacrifice out of love for others, and abandonment to providence and grace. In Bilbo's Journey: Discovering the Hidden Meaning of The Hobbit you will relive the excitement of Tolkien's classic tale, while discovering the profound Christian meaning that makes The Hobbit a truly timeless adventure. The audiobook edition of Bilbo's Journey is read by Kevin O'Brien.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781618901224"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1618901222"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 120,
+                "printType": "BOOK",
+                "categories": [
+                    "Literary Criticism"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.2.2.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=mBSsCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=mBSsCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.pl/books?id=mBSsCgAAQBAJ&printsec=frontcover&dq=hobbit&hl=&cd=8&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=mBSsCgAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=mBSsCgAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "PL",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 26.5,
+                    "currencyCode": "PLN"
+                },
+                "retailPrice": {
+                    "amount": 26.5,
+                    "currencyCode": "PLN"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=mBSsCgAAQBAJ&rdid=book-mBSsCgAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 26500000,
+                            "currencyCode": "PLN"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 26500000,
+                            "currencyCode": "PLN"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "PL",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.pl/books/download/Bilbo_s_Journey-sample-epub.acsm?id=mBSsCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.pl/books/download/Bilbo_s_Journey-sample-pdf.acsm?id=mBSsCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=mBSsCgAAQBAJ&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "The audiobook edition of Bilbo&#39;s Journey is read by Kevin O&#39;Brien."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "2SYREAAAQBAJ",
+            "etag": "DZ2rxuNW6r8",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/2SYREAAAQBAJ",
+            "volumeInfo": {
+                "title": "The Hobbit",
+                "authors": [
+                    "Artur Dąbrowski"
+                ],
+                "publisher": "Litres",
+                "publishedDate": "2020-08-04",
+                "description": "„The Hobbit” opowiada o wydarzeniach, które miały miejsce przed rozpoczęciem się trylogii „Władca Pierścieni”. W poradniku znajdziecie informacje o postaciach występujących w grze oraz jej dokładny opis przejścia. The Hobbit – poradnik do gry zawiera poszukiwane przez graczy tematy i lokacje jak m.in. Postacie – Krasnoludowie 03 – Troll-Hole Postacie – Główne Postacie – Elfowie 01 – An Unexpected Party cz.1 Postacie – Wrogowie Postacie – Ludzie 00 – Dream World 11 – The Clouds Burst cz.2 Postacie – Kreatury Informacja o grze The Hobbit jest przygodową grą akcji na motywach słynnej powieści J. R. R. Tolkiena, za której stworzenie odpowiada ekipa deweloperska studia Amaze Entertainment. Gracz wciela się w hobbita Bilbo Bagginsa i razem z Gandalfem oraz drużyną krasnoludów wyrusza w pełną niebezpieczeństw podróż. Rozgrywka łączy elementy charakterystyczne dla gier akcji, przygodowych, cRPG, zręcznościowych, logicznych, a nawet «skradanek». Gra The Hobbit, ciepło przyjęta zarówno przez krytyków, jak i graczy, to przedstawiciel gatunku przygodowych gier akcji. Tytuł wydany został w Polsce w 2004 roku i dostępny jest na platformach: PC, GBA, GCN, PS2, XBX. Wersja językowa oficjalnie dystrybuowana na terenie kraju to: pełna polska.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9785042738227"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "5042738223"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 61,
+                "printType": "BOOK",
+                "categories": [
+                    "Computers"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.62.0.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=2SYREAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=2SYREAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "pl",
+                "previewLink": "http://books.google.pl/books?id=2SYREAAAQBAJ&pg=PA11&dq=hobbit&hl=&cd=9&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=2SYREAAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=2SYREAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "PL",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 10.28,
+                    "currencyCode": "PLN"
+                },
+                "retailPrice": {
+                    "amount": 8.53,
+                    "currencyCode": "PLN"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=2SYREAAAQBAJ&rdid=book-2SYREAAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 10280000,
+                            "currencyCode": "PLN"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 8530000,
+                            "currencyCode": "PLN"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "PL",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.pl/books/download/The_Hobbit-sample-pdf.acsm?id=2SYREAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=2SYREAAAQBAJ&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Artur Dąbrowski. 00 01 - An Unexpected Party Zaczynasz w swoim domku w <b>Hobbitonie</b> . Idź do pokoju , biorąc po drodze czerwony kryształ ( odpowiada on za punkty odwagi ) . Otwórz ... <b>Hobbit</b> - Poradnik GRY - OnLine 01 – An Unexpected Party."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "H8ON-dTgQQYC",
+            "etag": "uLzm7Z+lroI",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/H8ON-dTgQQYC",
+            "volumeInfo": {
+                "title": "The Hobbit",
+                "subtitle": "An Unexpected Journey : Visual Companion",
+                "authors": [
+                    "Jude Fisher"
+                ],
+                "publisher": "Houghton Mifflin Harcourt",
+                "publishedDate": "2012",
+                "description": "A visual companion to the film \"The Hobbit: An Unexpected Journey\" offers insights into the world of Middle-Earth and includes character profiles, bestiaries, and notes on the places of Middle-Earth.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780547898568"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0547898568"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 111,
+                "printType": "BOOK",
+                "categories": [
+                    "Art"
+                ],
+                "averageRating": 3.5,
+                "ratingsCount": 2,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.0.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=H8ON-dTgQQYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=H8ON-dTgQQYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.pl/books?id=H8ON-dTgQQYC&printsec=frontcover&dq=hobbit&hl=&cd=10&source=gbs_api",
+                "infoLink": "http://books.google.pl/books?id=H8ON-dTgQQYC&dq=hobbit&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/The_Hobbit.html?hl=&id=H8ON-dTgQQYC"
+            },
+            "saleInfo": {
+                "country": "PL",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "PL",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.pl/books/download/The_Hobbit-sample-pdf.acsm?id=H8ON-dTgQQYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=H8ON-dTgQQYC&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "&quot;First published by HarperCollinsPublishers in 2012&quot;--Colophon."
+            }
+        }
+    ]
+}
